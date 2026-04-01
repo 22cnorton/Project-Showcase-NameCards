@@ -1,5 +1,4 @@
 Timestamp,Email address,Name,Project Name,Short Description of Project,Repository Link (if applicable),Details
-03/03/2026 14:25:51,my_vu@student.uml.edu,Jessica Vu,HawkAdvisor,"HawkAdvisor is the first digital tool to recommend elective courses to UML students given the career that they want to do. Apart from that, HawkAdvisor also help you to explore the possible careers that you could do given the major that you chose. The most interesting thing about this project is that it is very scalable. Our implementation works not just for one majors, but all majors; and not just for our school, but literally any schools!",,
 04/03/2026 11:27:32,roshankarthik_rajesh@student.uml.edu,Roshan Karthik Rajesh,Fridge Log,Lets users take a photo of the expiration date text of items and receive reminders of their expiring items,https://github.com/HoustonBoston/fridge-log,
 04/03/2026 15:55:23,jesse_silva@student.uml.edu,Jesse Silva,PCB Business Card,,,
 05/03/2026 01:40:47,ansh_patel@student.uml.edu,Ansh Patel,UFC fight predictor,Using different classification models to predict the winner of a UFC fight based on physical features. Its a group project for ML class,,
