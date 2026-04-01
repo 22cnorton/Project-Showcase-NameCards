@@ -1,8 +1,8 @@
 name: Compile Typst and Release
 on:
   push:
-    branches:
-      - main  # Runs every time you push to main
+    tags:
+      - "v*" # Runs when you push a tag starting with 'v' (e.g., v1.0)
 
 jobs:
   build:
