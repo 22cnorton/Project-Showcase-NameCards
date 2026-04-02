@@ -1,7 +1,7 @@
 #import "@preview/tiaoma:0.3.0"
 #set page(paper: "us-letter", margin: (x: 0.5in, y: 0in), flipped: true)
 // #set text(size: 12pt)
-#let data = csv("names.csv")
+#let data = csv("names_2.csv")
 #let empty-link = ""
 
 #let namecard(name, role, link) = {
