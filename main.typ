@@ -1,12 +1,12 @@
 #import "@preview/tiaoma:0.3.0"
-#set page(paper: "us-letter", margin: (x: 0.5in, y: 0in), flipped: true)
+#set page(paper: "us-letter", margin: (x: 0.5in, y: 0in),flipped: true)
 // #set text(size: 12pt)
 #let data = csv("names_2.csv")
 #let empty-link = ""
 
 #let namecard(name, role, link) = {
   grid(
-    columns: (3.5fr, 1fr),
+    columns: (3fr, 1fr),
     rows: (1fr, 1fr, 1fr),
     // stroke: black,
     grid.cell(y: 1, colspan: if link == empty-link { 2 } else { 1 })[
