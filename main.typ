@@ -31,5 +31,5 @@
 }
 
 #for row in data.slice(1) {
-  namecard(row.at(2), row.at(3), row.at(5))
+  namecard(row.at(0), row.at(1), row.at(2))
 }
